@@ -12,5 +12,5 @@
 - python train_foodlabel.py
 
 ## 参考
-- 藪内ほか "深層学習を活用した健康食品の医薬品的効能効果に関する広告表現の判別"
+- 藪内ほか "深層学習を活用した健康食品の医薬品的効能効果に関する広告表現の判別" <i>第56回日本薬剤師会学術大会</i> P-215 和歌山 (2023)
 - [Text classification with Convolution Neural Networks (CNN)](https://github.com/cmasch/cnn-text-classification)
